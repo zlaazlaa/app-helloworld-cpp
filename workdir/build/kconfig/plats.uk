@@ -1,0 +1,5 @@
+# Auto generated file. DO NOT EDIT
+source "/home/zlaa123456/mqy-app-hellowworld/app-helloworld-cpp/workdir/unikraft/plat/kvm/Config.uk"
+source "/home/zlaa123456/mqy-app-hellowworld/app-helloworld-cpp/workdir/unikraft/plat/linuxu/Config.uk"
+source "/home/zlaa123456/mqy-app-hellowworld/app-helloworld-cpp/workdir/unikraft/plat/xen/Config.uk"
+source "/home/zlaa123456/mqy-app-hellowworld/app-helloworld-cpp/workdir/unikraft/plat/Config.uk"
